@@ -1,0 +1,5 @@
+# Variables for your jinja template
+
+# Site Name goes into the generated config file; make sure its named!
+site_name: "site name"
+test_var: "test var"
